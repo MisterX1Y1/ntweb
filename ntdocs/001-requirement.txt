@@ -1,0 +1,23 @@
+=========================================================================
+|*                             Requirement                             *|
+=========================================================================
+
+Home Page
+
+Features
+    * Should have a Navigation Panel
+    & Should have links to Ecommerce (Shop) & Blog
+    & Should have a search bar to search for Products
+    & Should have a top panel for primary Navigation
+     to Our Mission, Our Story, Join Us, Contact Us
+    & if user is logged in, primay navigation panel should list 3 icons
+     (User Profile, Favorites/Wishlist, Cart) 
+    & The above mentioned Navigation panel should be same across all
+     screens with appropriate values 
+    & 7 Sections need to be there for displaying the contents & features 
+    of the product company. (Refer Section details in Figma)
+    & Should have a dedicated Footer Section to display the meta tags
+     & links
+
+     
+=========================================================================
