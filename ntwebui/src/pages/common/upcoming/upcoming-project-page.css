@@ -1,0 +1,23 @@
+.join-us-container {
+    text-align: center;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+
+.container-content-f {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0px;
+}
+
+.shop-btn {
+    background-color: red !important;
+    color: white !important;
+    width: 350px !important;
+    text-transform: none !important;
+    margin: 10px !important;
+    border-radius: 10px !important;
+}

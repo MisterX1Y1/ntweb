@@ -1,0 +1,32 @@
+.top-nav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.top-nav-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 50%;
+}
+
+.top-nav-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 30%;
+}
+
+.nav-btn {
+    color: black !important;
+    border-radius: 0px !important;
+    /* border: 1px solid black !important; */
+    text-transform: none !important;
+    height: 50px !important;
+}
+
+.nav-icon-div {
+    margin: 0px 25px;
+}

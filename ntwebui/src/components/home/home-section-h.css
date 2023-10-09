@@ -1,0 +1,15 @@
+.fifth-section-home-container {
+    text-align: center;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+
+.container-content-h {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0px;
+}
+

@@ -1,0 +1,34 @@
+.second-section-home-container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 400px;
+    justify-content: center;
+}
+
+.button-col-align {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.shop-btn-1 {
+    width: 350px !important;
+    border-radius: 20px !important;
+    border: 2px solid red !important;
+    color: black !important;
+    text-transform: none !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+}
+
+.shop-btn-2 {
+    width: 350px !important;
+    border-radius: 20px !important;
+    border: 2px solid green !important;
+    color: black !important;
+    text-transform: none !important;
+    margin-bottom: 10px !important;
+    margin-top: 10px !important;
+}

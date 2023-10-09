@@ -1,0 +1,9 @@
+.first-section-home-container {
+    text-align: center;
+    margin: 10px;
+}
+
+.button-col-align {
+    display: flex;
+    flex-direction: column;
+}

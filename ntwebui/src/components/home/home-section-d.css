@@ -1,0 +1,16 @@
+.third-section-home-container {
+    text-align: center;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}
+
+.container-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+img {
+    padding: 10px;
+    background-size: cover;
+}

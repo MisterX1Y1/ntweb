@@ -1,0 +1,24 @@
+.sign-up-banner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: rgb(227, 218, 218);
+}
+
+.sign-up-btn {
+    background-color: red !important;
+    width: 200px !important;
+    text-transform: none !important;
+    margin: 10px !important;
+    border-radius: 10px !important;
+}
+
+.right-sign-up-bannner {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
